@@ -10,10 +10,10 @@ Antes de começar, você precisa ter o Java SE Devolopment Kit(JDK)instalado em 
 ## Compilando e executando o programa
 Para compilar o programa, abra o prompt de comando ou terminal e navegue até o diretório onde o arquivo 'CalculadoraLinhaDeComando.java'
 está localizado. em seguida, digite o seguinte comando:
-* javac CalculadoraLinhaDeComando.java
+* javac CalculadoraSimples.java
 
 Isso irá compilar o programa. Para executá-lo, digite o seguinte comando: 
-* java CalculadoraLinhaDeComando
+* java CalculadoraSimples
 
 ## Ao executar o programa, você será solicitado a inserir 
 * 1 para somar
